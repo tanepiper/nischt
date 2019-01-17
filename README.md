@@ -4,7 +4,7 @@ A simple PHP script to speed up the translation setup for Angular apps using ngx
 
 #### Installation
 
-In order to run the script, you need to have php installed on your machine. 
+In order to run the script, you need to have PHP installed on your machine. 
 
 *Most Mac OS versions ship with PHP*, so it's very likely you won't have to do anything. If that's not the case, for more info on how to install it, click [here](https://medium.com/@romaninsh/install-php-7-2-on-macos-high-sierra-with-homebrew-bdc4d1b04ea6).
 
